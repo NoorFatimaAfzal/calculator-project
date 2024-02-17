@@ -1,1 +1,1 @@
-Simple Calculator that perform arithmatic operations using python tkinter library.
+Simple Calculator that performs arithmatic operations using python tkinter library.
